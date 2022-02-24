@@ -13,7 +13,7 @@ Building a web app using streamlit and deploying it to the cloud with Heroku.
 8. Deployment via Heroku
 9. Deployment via Heroku
 10. Conclusion
-11. Conclusion
+
 
 ## Introduction
 In the tech world, the ultimate goal of any project is to deploy it into production. And with numerous advanced technologies, it has become extremely easier to execute and experiment a lot of such stuffs.
